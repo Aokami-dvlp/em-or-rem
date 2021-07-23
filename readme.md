@@ -1,4 +1,4 @@
-REM è l'unità di misura relativa al font-size dell'elemento root <html>
+REM è l'unità di misura relativa al font-size dell'elemento root ```<html>```
 il quale di default è generalmente 16px.
 
 EM è l'unitò di misura relativa al font-size dell'elemento contenitore, e
