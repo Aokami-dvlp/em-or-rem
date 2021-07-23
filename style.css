@@ -1,0 +1,45 @@
+html {
+    font-size: 100%;
+}
+
+.em h1,
+.em h1 span {
+    font-size: 2em;
+}
+
+.em h2,
+.em h2 span {
+    font-size: 1.5em;
+}
+
+.em p,
+.em p a,
+.em p a span {
+    font-size: 0.75em;
+}
+
+.rem h1,
+.rem h1 span {
+    font-size: 2rem;
+}
+
+.rem h2,
+.rem h2 span {
+    font-size: 1.5rem;
+}
+
+.rem p,
+.rem p a,
+.rem p a span {
+    font-size: 0.75rem;
+}
+
+.rem {
+    background-color: cadetblue;
+    width: fit-content
+}
+
+.em {
+    background-color: chartreuse;
+    width: fit-content;
+}
